@@ -55,4 +55,8 @@ left: 0; position: relative; right: 0; top: 0; bottom: 0;
     word-spacing: 4px;
     font-size: 60px;
 }
+
+.conteudo p {
+    color: gray;
+}
 }
