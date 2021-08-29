@@ -1,0 +1,29 @@
+@media only screen and (min-width:1020px) {
+.topo nav {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+background-color: blue;
+height: 50px;
+align-items: center;
+
+left: 0; position: fixed; right: 0; top: 0;
+}
+.logo {
+    height: 70px;
+    margin-top: 0;
+    
+}
+
+.nav {
+    margin: 0 20px;
+   text-decoration: none;
+   color: white;
+}
+
+.p2 {
+    
+    word-spacing: 15px;
+}
+    
+}
