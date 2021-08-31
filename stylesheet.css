@@ -17,7 +17,7 @@ background-color: rgb(0, 217, 255);
 height: 50px;
 align-items: center;
 
-left: 0; position: relative; right: 0; top: 0; bottom: 0;
+left: 0; position: fixed; right: 0; top: 0; bottom: 0;
 }
 .logo {
     height: 70px;
@@ -549,8 +549,9 @@ iframe {
         color: rgba(54, 54, 54, 0.829);
         text-align: center;
         text-transform: uppercase;
-        font-size: 20px;
+        font-size: 40px;
        }
+      
        .img2{
            width: 100%;
        }
@@ -694,12 +695,12 @@ iframe {
         
         
         margin: 70px 0; 
-        min-width: 430px;
+        width: 810px;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        padding: 30px;
+        box-sizing: border-box;
         
         
     }
@@ -735,7 +736,7 @@ iframe {
         flex-direction: row;
         justify-content: center;
         color: rgba(54, 54, 54, 0.829);
-        width: 600;
+        width: 810px;
         font-size: 30px;    
     }
     
@@ -806,7 +807,7 @@ iframe {
         align-items: center;
     }
     .rodape p{
-        font-size: 20px;
+        font-size: 30px;
         text-align: center;
         color: cornsilk;}
 
