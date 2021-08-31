@@ -60,6 +60,8 @@ left: 0; position: fixed; right: 0; top: 0; bottom: 0;
     font-size: 60px;
 }
 
+
+
 .textotitulo{
     
     
@@ -80,6 +82,7 @@ left: 0; position: fixed; right: 0; top: 0; bottom: 0;
     font-size: 36px;
     text-align: center;
     width: 830px;
+    margin-top: 45px;
 }
 .texto{
     color: rgba(54, 54, 54, 0.829);
@@ -374,7 +377,6 @@ iframe {
     .rodape p{
         text-align: center;
         color: cornsilk;
-
 }
 }
 
@@ -512,6 +514,9 @@ iframe {
         font-size:24px ;
     
     }
+    .shazam{
+        display: none;
+    }
     
     .lista{
         
@@ -549,7 +554,7 @@ iframe {
         color: rgba(54, 54, 54, 0.829);
         text-align: center;
         text-transform: uppercase;
-        font-size: 40px;
+        font-size: 20px;
        }
       
        .img2{
@@ -695,7 +700,7 @@ iframe {
         
         
         margin: 70px 0; 
-        width: 810px;
+        width: 870px;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -709,7 +714,7 @@ iframe {
     .titulo{
        
         color: rgba(54, 54, 54, 0.829);
-        font-size: 36px;
+        font-size: 40px;
         text-align: center;
         
         min-width: 430px;
@@ -717,7 +722,7 @@ iframe {
     .texto{
         color: rgba(54, 54, 54, 0.829);
         text-align: center;
-        font-size: 30px;
+        font-size: 35px;
         
         min-width: 430px;
     }
@@ -738,6 +743,10 @@ iframe {
         color: rgba(54, 54, 54, 0.829);
         width: 810px;
         font-size: 30px;    
+    }
+
+    .shazam{
+        display: none;
     }
     
     .especialidades{
@@ -766,7 +775,7 @@ iframe {
         color: rgba(54, 54, 54, 0.829);
         text-align: center;
         text-transform: uppercase;
-        font-size: 20px;
+        font-size: 40px;
        }
        .img2{
            width: 100%;
@@ -775,7 +784,7 @@ iframe {
     .Butão{
         display: flex;
         justify-content: center;
-        margin-top: 20px; 
+        margin-top: 30px; 
     }
     button {
         background-color:rgb(0, 217, 255) ;
@@ -783,7 +792,7 @@ iframe {
         text-transform: uppercase;
         color: whitesmoke;
         border:none;
-        font-size: 20px;
+        font-size: 30px;
         padding:15px;
         
     }
@@ -809,6 +818,9 @@ iframe {
     .rodape p{
         font-size: 30px;
         text-align: center;
-        color: cornsilk;}
+        color: cornsilk;
+    }
+  
+    }
 
-}
+
