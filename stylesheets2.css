@@ -694,11 +694,11 @@
         background-color: whitesmoke;
     }
     td{
-        padding: 5px;
+        padding:0 35px;
         width: 33%;
         
     }
-    th { padding: 5px;
+    th { padding:0 35px;
         text-align: left;
     }
 
